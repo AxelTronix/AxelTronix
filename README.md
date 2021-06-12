@@ -15,7 +15,7 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
-[![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/devingondiscord)
+[![DOD Badge](https://img.shields.io/badge/TEAM-TrapHouseRP -17a6ec?style=for-the-badge)](https://tronix.website/)
 
 ### Some Highlights:
 
