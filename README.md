@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Tronix!](https://tronix.website/)
 
-<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/790995504183640164/847520383519293470/MainTrap.gif" />
+<img align="right" height="215" width="215" alt="" src="https://cdn.discordapp.com/attachments/790995504183640164/847520383519293470/MainTrap.gif" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](discord.gg/4PDpp5WPkA)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCWnpoFXHqyb3IsXwGfb7Tiw)
