@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tronix.website/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/AxelTronix)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=AxelTronix&label=Views&color=blue&style=plastic)
+### Glad to see you here! &nbsp; !
 
 I'm a School Dropout What else do you want to know?
 I'm a passionate learner who's always willing to learn, I've been Developing in Lua mainly for FiveM Servers for 8 Months now.
