@@ -44,7 +44,6 @@ while (dev.isInFrontOfComputer()) {
 ```
 	
 ```lua
-	
 while (alive) {
 	
   eat();
