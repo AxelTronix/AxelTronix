@@ -25,18 +25,7 @@ ___
 ### Spotify Playing 🎧
 ![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
 ___
-----
 
-
-### Languages and Tools:
-
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<div align="center" >
   
 <a  href="https://github.com/AxelTroni"> 
   
