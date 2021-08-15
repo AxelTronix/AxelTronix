@@ -15,6 +15,23 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
+```csharp
+anordinaryusername@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: Artesia, CA
+Frameworks: React
+Languages: JavaScript, TypeScript,
+           HTML, CSS
+Learning: Node.js, Express, PostgreSQL,
+          Three.js, CPP
+Hobbies: Gardening, Cooking, Gaming
+Commits: 986
+Stars: 7
+Discord: RandomPotato#1377
+```
 
 ### Some Highlights:
 
