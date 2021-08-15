@@ -69,6 +69,6 @@ ___
 	<img src="https://komarev.com/ghpvc/?username=AxelTronix&color=fb760b&label=Visitors" alt="js" />
 </p>
 	
-	```zsh
+```zsh
 >  check out my repos 👇
 ```
