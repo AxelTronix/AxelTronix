@@ -1,13 +1,6 @@
-## Hey 👋, I'm [Tronix!](https://tronix.website/)
+<h1 align="center">Tronix</h1>
 
-<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/845476172057149450/853245142726475826/1.jpg" />
-
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](discord.gg/4PDpp5WPkA)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCWnpoFXHqyb3IsXwGfb7Tiw)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tronix.website/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/AxelTronix)
-
-### Glad to see you here! 
+<h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/>
 
 I'm a School Dropout What else do you want to know?
 I'm a passionate learner who's always willing to learn, I've been Developing in Lua mainly for FiveM Servers for 8 Months now.
