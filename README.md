@@ -44,12 +44,15 @@ while (dev.isInFrontOfComputer()) {
 ```
 	
 ```lua
+	
 while (alive) {
-	eat();
-	sleep();
-	code();
-	repeat();
-	}
+	
+  eat();
+  sleep();
+  code();
+  repeat();
+	
+  }
 ```
 
 ___
