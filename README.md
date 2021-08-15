@@ -56,6 +56,8 @@ while (dev.isInFrontOfComputer()) {
 - Code Editor: VSCode - The best editor out there
 - Stay Updated: [YouTube](https://www.youtube.com/channel/UCWnpoFXHqyb3IsXwGfb7Tiw), [Discord]( discord.gg/4PDpp5WPkA), and [Website](https://tronix.website/)
 
+	
+	
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=willnaoosmith&color=fb760b&label=Visitors" alt="js" />
+	<img src="https://komarev.com/ghpvc/?username=AxelTronix&color=fb760b&label=Visitors" alt="js" />
 </p>
