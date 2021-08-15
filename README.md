@@ -38,14 +38,14 @@ while (dev.isInFrontOfComputer()) {
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Stats
+<div align="center" >
+  
+<a  href="https://github.com/AxelTroni"> 
+  
+<img alt="Tronix's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AxelTronix&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelTroni&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/AxelTroni" />
 
-<p align="left">
-<a href="https://github.com/AxelTronix">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AxelTronix&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AxelTronix&layout=compact&langs_count=8&theme=react"/>
 </a>
-</p>
 
 ---
 
