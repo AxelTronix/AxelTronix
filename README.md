@@ -14,21 +14,16 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 
 
 ```csharp
-anordinaryusername@github
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 986
-Stars: 7
-Discord: RandomPotato#1377
+Developer dev = new Developer("Tronix");
+
+while (dev.isInFrontOfComputer()) {
+  
+  dev.openChromeBrowser();
+  dev.copyCodeFromStackOverflow();
+  dev.pasteCodeInIDE();
+  dev.feelLikeAProfessionalDeveloper();
+  
+  }
 ```
 
 ### Some Highlights:
