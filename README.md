@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tronix.website/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/AxelTronix)
 
-### Glad to see you here! &nbsp; !
+### Glad to see you here! 
 
 I'm a School Dropout What else do you want to know?
 I'm a passionate learner who's always willing to learn, I've been Developing in Lua mainly for FiveM Servers for 8 Months now.
@@ -56,8 +56,6 @@ while (dev.isInFrontOfComputer()) {
 - Code Editor: VSCode - The best editor out there
 - Stay Updated: [YouTube](https://www.youtube.com/channel/UCWnpoFXHqyb3IsXwGfb7Tiw), [Discord]( discord.gg/4PDpp5WPkA), and [Website](https://tronix.website/)
 
----
-
-<h3 align=center>Show some ❤️ </h3>
-
----
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=willnaoosmith&color=fb760b&label=Visitors" alt="js" />
+</p>
