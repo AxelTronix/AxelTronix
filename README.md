@@ -26,9 +26,13 @@ while (dev.isInFrontOfComputer()) {
   }
 ```
 
-### Some Highlights:
+</br>
+<p align="center">
+	<img src="https://spotify-github-profile.vercel.app/api/view?uid=12181824518&cover_image=false&theme=default" />
+</p>
 
-- 📌 Coming Soon
+</br>
+
 
 ### Languages and Tools:
 
