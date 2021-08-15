@@ -19,12 +19,13 @@ while (dev.isInFrontOfComputer()) {
   }
 ```
 
-</br>
-<p align="center">
-	<img src="https://spotify-github-profile.vercel.app/api/view?uid=12181824518&cover_image=false&theme=default" />
-</p>
+___
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-</br>
+### Spotify Playing 🎧
+![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
+___
+----
 
 
 ### Languages and Tools:
