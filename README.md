@@ -55,13 +55,15 @@ while (alive) {
 ```
 
 ___
+	
 <!-- START: MUSIC STATUS -->
 <div align="center">
-  <a href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
-  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing" alt="Music Status">
+  <a href="https://AxelTronix-spotify-readme-stats-2.vercel.app/api/now-playing?open">
+  <img src="https://AxelTronix-spotify-readme-stats-2.vercel.app/api/now-playing" alt="Music Status">
   </a>
 </div>
 <!-- END: MUSIC STATUS -->
+	
 ___
 
   
