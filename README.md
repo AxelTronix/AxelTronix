@@ -65,7 +65,7 @@ ___
 <br>
 <br>
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=AxelTronix&show_icons=true&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="AxelTronix Github Stats"/>
-s
+
 <!-- END: GITHUB STATUS -->
 </div>
 
