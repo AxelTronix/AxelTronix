@@ -55,10 +55,13 @@ while (alive) {
 ```
 
 ___
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)
+<!-- START: MUSIC STATUS -->
+<div align="center">
+  <a href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
+  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing" alt="Music Status">
+  </a>
+</div>
+<!-- END: MUSIC STATUS -->
 ___
 
   
@@ -77,7 +80,7 @@ ___
 <br>
 <br>
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=AxelTronix&show_icons=true&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="nellyXinwei's Github Stats"/>
-
+s
 <!-- END: GITHUB STATUS -->
 </div>
 
