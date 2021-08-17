@@ -56,19 +56,7 @@ while (alive) {
 
 ___
 	
-<!-- START: MUSIC STATUS -->
-<div align="center">
-  <a href="https://AxelTronix-spotify-readme-stats-2.vercel.app/api/now-playing?open">
-  <img src="https://AxelTronix-spotify-readme-stats-2.vercel.app/api/now-playing" alt="Music Status">
-  </a>
-</div>
-<!-- END: MUSIC STATUS -->
-	
-___
 
-  
-<a  href="https://github.com/AxelTronix"> 
-  
 <!-- END: ABOUT ME  -->
 <div align="center">
 <!-- START: GITHUB STATUS -->
