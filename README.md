@@ -60,7 +60,7 @@ ___
 <!-- END: ABOUT ME  -->
 <div align="center">
 <!-- START: GITHUB STATUS -->
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=AxelTronix&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=333399,333399,333399,833ab4,c13584,c13584" alt="nellyXinwei's Wakatime"/>
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nellyXinwei&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=333399,333399,333399,833ab4,c13584,c13584" alt="nellyXinwei's Wakatime"/>
 
 <br>
 <br>
