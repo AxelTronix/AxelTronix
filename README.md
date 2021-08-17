@@ -60,12 +60,7 @@ ___
 <!-- END: ABOUT ME  -->
 <div align="center">
 <!-- START: GITHUB STATUS -->
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=AxelTronix&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=333399,333399,333399,833ab4,c13584,c13584" alt="AxelTronix Wakatime"/>
-
-<br>
-<br>
-
-  <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AxelTronix&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell&bg_color=833ab4,833ab4,c13584,f77737,f77737" alt="AxelTronix Top Languages"/>
+<img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AxelTronix&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell&bg_color=833ab4,833ab4,c13584,f77737,f77737" alt="AxelTronix Top Languages"/>
 
 <br>
 <br>
