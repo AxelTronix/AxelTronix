@@ -62,12 +62,27 @@ ___
 ___
 
   
-<a  href="https://github.com/AxelTroni"> 
+<a  href="https://github.com/AxelTronix"> 
   
-<img alt="Tronix's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AxelTronix&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelTronix&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/AxelTroni" />
+<!-- END: ABOUT ME  -->
+<div align="center">
+<!-- START: PROGRAMMING LANGUAGES -->
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
+<!-- END: PROGRAMMING LANGUAGES -->
+<!-- START: GITHUB STATUS -->
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nellyXinwei&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=333399,333399,333399,833ab4,c13584,c13584" alt="nellyXinwei's Wakatime"/>
 
-</a>
+<br>
+<br>
+
+  <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nellyXinwei&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell&bg_color=833ab4,833ab4,c13584,f77737,f77737" alt="nellyXinwei's Top Languages"/>
+
+<br>
+<br>
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="nellyXinwei's Github Stats"/>
+
+<!-- END: GITHUB STATUS -->
+</div>
 
 ---
 
