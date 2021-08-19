@@ -1,3 +1,8 @@
+[![bg][banner]][website]
+
+[banner]: https://cdn.discordapp.com/attachments/851650166473097217/877941124155715695/banner123.png
+[website]: https://tronix.website
+
 <h1 align="center">Tronix</h1>
 <p align="center">
 <a href="https://discord.gg/hJfBUFJDed"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
