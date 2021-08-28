@@ -47,6 +47,15 @@ while (dev.isInFrontOfComputer()) {
   
   }
 ```
+	
+```lua
+local languages = {'JavaScript','lua','html5','css','SQL'}
+
+local LanguageShit = languages[math.random(1,#languages)]	
+	
+print(LanguageShit)	
+
+```
 
 
 ___
@@ -65,15 +74,6 @@ ___
 </div>
 
 ---
-	
-```lua
-local languages = {'JavaScript','lua','html5','css','SQL'}
-
-local LanguageShit = languages[math.random(1,#languages)]	
-	
-print(LanguageShit)	
-
-```
 	
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=AxelTronix&color=fb760b&label=Visitors" alt="js" />
