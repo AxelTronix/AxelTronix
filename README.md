@@ -67,12 +67,11 @@ ___
 ---
 	
 ```lua
-languages
-{
+local languages = {'basic js','lua','html5','css','SQL'}
 
-	
-	
-}
+local LanguageShit = math.random(1,#languages)	
+print(LanguageShit)	
+
 ```
 	
 <p align="center">
