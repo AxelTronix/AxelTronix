@@ -48,7 +48,7 @@ while (dev.isInFrontOfComputer()) {
   }
 ```
 	
-```js
+```cs
 local Dongs  = {'Games.','Coding.','Problem Solving.','Streaming.'};
 local Langs = {'JavaScript','lua','html5','css','SQL'};
 	
