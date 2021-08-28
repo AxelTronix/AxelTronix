@@ -49,11 +49,11 @@ while (dev.isInFrontOfComputer()) {
 ```
 	
 ```js
-local dongs  = {'Games.','Coding.','Problem Solving.','Streaming.';
-local langs = {'JavaScript','lua','html5','css','SQL'};
+local Dongs  = {'Games.','Coding.','Problem Solving.','Streaming.'};
+local Langs = {'JavaScript','lua','html5','css','SQL'};
 	
-local doings = dongs[math.random(1,#dongs)];
-local LanguageShit = langs[math.random(1,#langs)];	
+local doings = Dongs[math.random(1,#Dongs)];
+local LanguageShit = Langs[math.random(1,#Langs)];	
 	
 print("Couple Languages I know " ..LanguageShit);	
 	
