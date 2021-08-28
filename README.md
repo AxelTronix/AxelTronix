@@ -49,9 +49,9 @@ while (dev.isInFrontOfComputer()) {
 ```
 	
 ```lua
-local languages = {'JavaScript','lua','html5','css','SQL'}
+local langs = {'JavaScript','lua','html5','css','SQL'}
 
-local LanguageShit = languages[math.random(1,#languages)]	
+local LanguageShit = langs[math.random(1,#langs)]	
 	
 print(LanguageShit)	
 
