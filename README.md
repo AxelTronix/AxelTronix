@@ -67,9 +67,9 @@ ___
 ---
 	
 ```lua
-local languages = {'basic js','lua','html5','css','SQL'}
+local languages = {'JavaScript','lua','html5','css','SQL'}
 
-local LanguageShit = math.random(1,#languages)	
+local LanguageShit = math.random(#languages)	
 print(LanguageShit)	
 
 ```
