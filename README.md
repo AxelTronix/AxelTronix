@@ -49,11 +49,15 @@ while (dev.isInFrontOfComputer()) {
 ```
 	
 ```lua
+local dongs  = {'Games.','Coding.','Problem Solving.','Streaming.',
 local langs = {'JavaScript','lua','html5','css','SQL'}
-
+	
+local doings = dongs[math.random(1,#dongs)]
 local LanguageShit = langs[math.random(1,#langs)]	
 	
-print(LanguageShit)	
+print("Couple Languages I know " ..LanguageShit)	
+	
+print("I like" ..doings)
 
 ```
 
