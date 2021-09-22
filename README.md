@@ -34,8 +34,8 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 	
 	
 	
-	
-<img src="https://cdn.discordapp.com/attachments/851650166473097217/890281630189633596/carbon_1.png" width=25% height=25%>
+	<h4 align="center"><img src="https://cdn.discordapp.com/attachments/851650166473097217/890281630189633596/carbon_1.png" width=50% height=50%><h4/>
+
 	
 ```cs
 local Dongs  = {'Games.','Coding.','Problem Solving.','Streaming.'}
