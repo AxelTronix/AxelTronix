@@ -33,9 +33,7 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 ---
 	
 	
-	<p align="center">
-	<img src="https://cdn.discordapp.com/attachments/851650166473097217/890281630189633596/carbon_1.png" width="50%" height="50%">
-	</p>
+	
 	
 ```cs
 local Dongs  = {'Games.','Coding.','Problem Solving.','Streaming.'}
