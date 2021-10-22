@@ -6,7 +6,7 @@
 <h1 align="center">Tronix</h1>
 <p align="center">
 <a href="https://discord.gg/hJfBUFJDed"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
-If you're reading this , Dont steal my readme :)
+<p align="center">If you're reading this , Dont steal my readme :)</p>
 </p>
 
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/>
