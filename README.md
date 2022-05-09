@@ -12,7 +12,7 @@
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/>
 
 
-I'm a passionate learner who's always willing to learn, I've been Developing in Lua mainly for FiveM Servers for 1 year now.
+I'm a passionate learner who's always willing to learn, I've been Developing in Lua mainly for FiveM Servers for 2 year now.
 
 
 	
