@@ -56,8 +56,7 @@ ___
 
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelTronix&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=AxelTronix&show_icons=true&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="AxelTronix Github Stats"/>
 
 <!-- END: GITHUB STATUS -->
 </div>
