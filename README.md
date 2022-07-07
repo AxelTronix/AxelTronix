@@ -52,7 +52,7 @@ ___
 <!-- END: ABOUT ME  -->
 <div align="center">
 <!-- START: GITHUB STATUS -->
-<img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AxelTronix&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=5&hide=python,html,css,powershell,shell&bg_color=833ab4,833ab4,c13584,f77737,f77737" alt="AxelTronix Top Languages"/>
+<img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AxelTronix&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=5&hide=powershell,shell&bg_color=833ab4,833ab4,c13584,f77737,f77737" alt="AxelTronix Top Languages"/>
 
 <br>
 <br>
