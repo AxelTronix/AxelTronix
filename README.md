@@ -22,22 +22,8 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 ---
 	
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/851650166473097217/890281630189633596/carbon_1.png" width="50%" height="50%">
+<img src="[https://cdn.discordapp.com/attachments/851650166473097217/890281630189633596/carbon_1.png](https://cdn.discordapp.com/attachments/957662382698688532/1120008512534220810/carbon.png)" width="50%" height="50%">
 </p>	
-	
-	
-```cs
-local Dongs  = {'Games.','Coding.','Problem Solving.','Streaming.'}
-local Langs = {'JavaScript','lua','html5','css','SQL'}
-	
-local doings = Dongs[math.random(1,#Dongs)]
-local LanguageShit = Langs[math.random(1,#Langs)]	
-	
-print("Couple Languages I know " ..LanguageShit)	
-	
-print("I like " ..doings)
-```
-
 
 ___
 	
