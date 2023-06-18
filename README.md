@@ -22,7 +22,7 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 ---
 	
 <p align="center">
-<img src="[https://cdn.discordapp.com/attachments/957662382698688532/1120008512534220810/carbon.png]" width="50%" height="50%">
+<img src="https://cdn.discordapp.com/attachments/957662382698688532/1120008512534220810/carbon.png" width="50%" height="50%">
 </p>	
 
 ___
