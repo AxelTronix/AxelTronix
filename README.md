@@ -26,7 +26,7 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 </p>	
 	
 	
-```cs
+```css
 local Dongs  = {'Games.','Coding.','Problem Solving.','Streaming.'}
 local Langs = {'JavaScript','lua','html5','css','SQL'}
 	
