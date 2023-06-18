@@ -26,7 +26,7 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 </p>	
 	
 	
-```css
+```cs
 local Dongs  = {'Games.','Coding.','Problem Solving.','Streaming.'}
 local Langs = {'JavaScript','lua','html5','css','SQL'}
 	
@@ -35,8 +35,7 @@ local LanguageShit = Langs[math.random(1,#Langs)]
 	
 print("Couple Languages I know " ..LanguageShit)	
 	
-print("I like" ..doings)
-
+print("I like " ..doings)
 ```
 
 
