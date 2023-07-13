@@ -6,10 +6,6 @@
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/>
 
 
-I'm a passionate learner who's always willing to learn, I've been Developing in Lua mainly for FiveM Servers for 2 year now.
-
-
-	
 	
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
