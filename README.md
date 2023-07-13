@@ -19,12 +19,6 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
----
-	
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/957662382698688532/1120008512534220810/carbon.png" width="70%" height="70%">
-</p>	
-
 ___
 	
 
