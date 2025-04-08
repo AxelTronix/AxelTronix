@@ -7,5 +7,5 @@
 </p>
 	
 ```zsh
->  check out my repos 👇
+>  check out my repos 👇 (Most of them have been removed)
 ```
